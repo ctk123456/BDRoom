@@ -12,7 +12,7 @@ import java.util.Properties;
 import com.mysql.jdbc.PreparedStatement;
 
 /**
- * 数据库相关的工具类
+ * 数据库相关的工具类操作
  *
  */
 public class DBUtils {
